@@ -7,8 +7,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Homework_10_3 {
-	
-	private int branch;
+
+	private String branch;
 
 	public static void main(String[]args) throws ParseException {
 		Scanner sc = new Scanner(System.in);
