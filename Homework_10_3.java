@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 public class Homework_10_3 {
 	
+	private int branch;
+
 	public static void main(String[]args) throws ParseException {
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyymmdd");
